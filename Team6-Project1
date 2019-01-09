@@ -1,2 +1,35 @@
-nd of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)?
-	- 
+School Education: 
+
+1.High School passing rate according to Household income and county?
+ 
+2.Correlation between geographic location and graduation rate?
+ 
+5. Also the relationship between graduation passing rates and unemployment statistics....
+ 
+6.How do graduation rates differ for children of parents with no college degree, and those with a degree
+
+7.Parents that were involved in students education(Passing rate higher?)
+
+PM suggested questions: (1) How does Texas graduation rates compare to the US? (2) Within Texas, how does the DFW Metroxplex compare to Texas? (3) Within DFW Metroplex, are there relationships between income, demographics, and graduation rates?  
+
+Task breakdown:
+Riad - reading csv file into data frame and aggregate
+Shade - Working with census data and API key
+Tony - Graphs
+Philip - presentation slide deck
+
+13 Counties:
+Denton
+Collin
+Hunt
+Rockwall
+Kaufman
+Ellis
+Johnson
+Dallas
+Sommerville
+Hood
+Parker
+Wise
+Tarrant
+
